@@ -1,0 +1,15 @@
+textarea.form-control {
+    width: 100% !important;
+}
+
+.col {
+    flex: none !important;
+}
+
+.input-group {
+    width: 40% !important;
+}
+
+.form-control {
+    width: 40%;
+}
